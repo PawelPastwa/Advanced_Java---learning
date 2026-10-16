@@ -1,0 +1,1 @@
+rootProject.name = "zad_1_3"
